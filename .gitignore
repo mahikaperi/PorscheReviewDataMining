@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large or local data files (optional but common)
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# Colab / notebook autosaves
+*.bak
+*.swp
