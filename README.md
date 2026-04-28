@@ -11,23 +11,23 @@ Upon searching for datasets for this project, I was aware that all datasets woul
 ## 📊 Results: 
 This study proved to be conducive to utilizing customer reviews to form a popular generalization of brand opinion and value. Additionally, popular topics were identified and analyzed accoridng to different times of review, along with according sentiment analysis. The brand overall saw a majority positive sentiment, and increased along with numerical ratings. However, ratings failed to provide further insight and certain discrepancies between sentiment polarity and numerical rating are key points of exploration to discover areas of improvement for not just Porsche, but all brands alike. 
 
-## ⚙️ Repository Structure 
-PorscheReviewDataMining/
-│
-├── main_notebook.ipynb
-├── data/
-│   └── Scraped_Car_Review_porsche.csv
-│
-├── checkpoints/
-│   └── Scraped_Car_Review_porsche.csv
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
 # Technology & Environment Overview
 
+## ⚙️ Repository Structure 
+
+PorscheReviewDataMining/
+- main_notebook.ipynb
+- data/
+    - Scraped_Car_Review_porsche.csv
+- checkpoints/
+    - Checkpoint1.ipynb
+    - Checkpoint2.ipynb
+- requirements.txt
+- README.md
+- .gitignore
+
 ## 💻 Deliverables:
-  1. Main Notebook: [Sentiment Analysis & Topic Modeling of Porsche Consumer Reviews]
+  1. Main Notebook: [Sentiment Analysis & Topic Modeling of Porsche Consumer Reviews](main_notebook.ipynb)
   2. Project Video: [Porsche Consumer Review Investor Pitch](https://www.youtube.com/watch?v=0WPqmGNa2hg)
   3. Dataset: [Web Scraped Porshce Reviews](data/Scraped_Car_Review_porsche.csv)
 
